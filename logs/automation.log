@@ -1,0 +1,53 @@
+11:27:24.756 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login 
+11:27:24.845 [main] INFO  stepsDefinitions.StepsCorrect - Provided Email 
+11:27:24.893 [main] INFO  stepsDefinitions.StepsCorrect - Provided Password 
+11:27:25.336 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login button
+11:27:40.373 [main] ERROR stepsDefinitions.StepsCorrect - Login Failed 
+11:29:08.191 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on My Account 
+11:29:08.663 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login 
+11:29:08.748 [main] INFO  stepsDefinitions.StepsCorrect - Provided Email 
+11:29:08.793 [main] INFO  stepsDefinitions.StepsCorrect - Provided Password 
+11:29:09.661 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login button
+11:29:09.694 [main] INFO  stepsDefinitions.StepsCorrect - Login Success 
+11:29:13.211 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on My Account 
+11:29:13.595 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login 
+11:29:13.670 [main] INFO  stepsDefinitions.StepsCorrect - Provided Email 
+11:29:13.718 [main] INFO  stepsDefinitions.StepsCorrect - Provided Password 
+11:29:14.279 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login button
+11:29:29.343 [main] ERROR stepsDefinitions.StepsCorrect - Login Failed 
+11:48:44.085 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on My Account 
+11:48:44.443 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login 
+11:48:44.526 [main] INFO  stepsDefinitions.StepsCorrect - Provided Email 
+11:48:44.571 [main] INFO  stepsDefinitions.StepsCorrect - Provided Password 
+11:48:45.222 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login button
+11:48:45.261 [main] INFO  stepsDefinitions.StepsCorrect - Login Success 
+11:48:48.813 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on My Account 
+11:48:49.154 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login 
+11:48:49.241 [main] INFO  stepsDefinitions.StepsCorrect - Provided Email 
+11:48:49.289 [main] INFO  stepsDefinitions.StepsCorrect - Provided Password 
+11:48:49.697 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login button
+11:49:04.736 [main] ERROR stepsDefinitions.StepsCorrect - Login Failed 
+11:50:33.858 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on My Account 
+11:50:34.217 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login 
+11:50:34.306 [main] INFO  stepsDefinitions.StepsCorrect - Provided Email 
+11:50:34.355 [main] INFO  stepsDefinitions.StepsCorrect - Provided Password 
+11:50:35.001 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login button
+11:50:35.039 [main] INFO  stepsDefinitions.StepsCorrect - Login Success 
+11:50:38.597 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on My Account 
+11:50:38.934 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login 
+11:50:39.014 [main] INFO  stepsDefinitions.StepsCorrect - Provided Email 
+11:50:39.062 [main] INFO  stepsDefinitions.StepsCorrect - Provided Password 
+11:50:39.499 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login button
+11:50:54.525 [main] ERROR stepsDefinitions.StepsCorrect - Login Failed 
+11:55:37.986 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on My Account 
+11:55:38.331 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login 
+11:55:38.420 [main] INFO  stepsDefinitions.StepsCorrect - Provided Email 
+11:55:38.466 [main] INFO  stepsDefinitions.StepsCorrect - Provided Password 
+11:55:39.118 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login button
+11:55:39.152 [main] INFO  stepsDefinitions.StepsCorrect - Login Success 
+11:55:42.766 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on My Account 
+11:55:43.112 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login 
+11:55:43.190 [main] INFO  stepsDefinitions.StepsCorrect - Provided Email 
+11:55:43.234 [main] INFO  stepsDefinitions.StepsCorrect - Provided Password 
+11:55:43.699 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login button
+11:55:58.744 [main] ERROR stepsDefinitions.StepsCorrect - Login Failed 

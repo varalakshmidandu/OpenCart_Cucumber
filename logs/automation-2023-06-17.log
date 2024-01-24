@@ -1,0 +1,69 @@
+00:29:54.806 [main] INFO  stepsDefinitions.Steps - Clicked on My Account 
+00:29:55.235 [main] INFO  stepsDefinitions.Steps - Clicked on Login 
+00:29:55.361 [main] INFO  stepsDefinitions.Steps - Provided Email 
+00:29:55.443 [main] INFO  stepsDefinitions.Steps - Provided Password 
+00:29:56.222 [main] INFO  stepsDefinitions.Steps - Clicked on Login button
+00:29:56.275 [main] INFO  stepsDefinitions.Steps - Login Success 
+01:14:33.653 [main] INFO  stepsDefinitions.Steps - Clicked on My Account 
+01:14:34.134 [main] INFO  stepsDefinitions.Steps - Clicked on Login 
+01:14:34.267 [main] INFO  stepsDefinitions.Steps - Provided Email 
+01:14:34.357 [main] INFO  stepsDefinitions.Steps - Provided Password 
+01:14:35.048 [main] INFO  stepsDefinitions.Steps - Clicked on Login button
+01:14:35.101 [main] INFO  stepsDefinitions.Steps - Login Success 
+01:17:13.966 [main] INFO  stepsDefinitions.Steps - Clicked on My Account 
+01:17:14.375 [main] INFO  stepsDefinitions.Steps - Clicked on Login 
+01:17:14.506 [main] INFO  stepsDefinitions.Steps - Provided Email 
+01:17:14.571 [main] INFO  stepsDefinitions.Steps - Provided Password 
+01:17:15.216 [main] INFO  stepsDefinitions.Steps - Clicked on Login button
+01:17:15.273 [main] INFO  stepsDefinitions.Steps - Login Success 
+12:31:59.595 [main] INFO  stepsDefinitions.Steps - Clicked on My Account 
+12:31:59.970 [main] INFO  stepsDefinitions.Steps - Clicked on Login 
+12:32:00.093 [main] INFO  stepsDefinitions.Steps - Provided Email 
+12:32:00.179 [main] INFO  stepsDefinitions.Steps - Provided Password 
+12:32:00.794 [main] INFO  stepsDefinitions.Steps - Clicked on Login button
+12:32:00.846 [main] INFO  stepsDefinitions.Steps - Login Success 
+01:12:06.428 [main] INFO  stepsDefinitions.Steps - Clicked on My Account 
+01:12:06.808 [main] INFO  stepsDefinitions.Steps - Clicked on Login 
+01:12:06.938 [main] INFO  stepsDefinitions.Steps - Provided Email 
+01:12:07.024 [main] INFO  stepsDefinitions.Steps - Provided Password 
+01:12:07.632 [main] INFO  stepsDefinitions.Steps - Clicked on Login button
+01:12:07.685 [main] INFO  stepsDefinitions.Steps - Login Success 
+10:52:04.312 [main] INFO  stepsDefinitions.Steps - Clicked on My Account 
+10:52:04.642 [main] INFO  stepsDefinitions.Steps - Clicked on Login 
+10:52:04.708 [main] INFO  stepsDefinitions.Steps - Provided Email 
+10:52:04.748 [main] INFO  stepsDefinitions.Steps - Provided Password 
+10:52:05.303 [main] INFO  stepsDefinitions.Steps - Clicked on Login button
+10:52:05.336 [main] INFO  stepsDefinitions.Steps - Login Success 
+16:02:48.886 [main] INFO  stepsDefinitions.Steps - Clicked on My Account 
+16:02:49.235 [main] INFO  stepsDefinitions.Steps - Clicked on Login 
+16:02:49.309 [main] INFO  stepsDefinitions.Steps - Provided Email 
+16:02:49.354 [main] INFO  stepsDefinitions.Steps - Provided Password 
+16:03:35.307 [main] INFO  stepsDefinitions.Steps - Clicked on My Account 
+16:03:35.682 [main] INFO  stepsDefinitions.Steps - Clicked on Login 
+16:03:35.758 [main] INFO  stepsDefinitions.Steps - Provided Email 
+16:03:35.800 [main] INFO  stepsDefinitions.Steps - Provided Password 
+16:04:16.029 [main] INFO  stepsDefinitions.Steps - Clicked on My Account 
+16:04:16.389 [main] INFO  stepsDefinitions.Steps - Clicked on Login 
+16:04:16.464 [main] INFO  stepsDefinitions.Steps - Provided Email 
+16:04:16.504 [main] INFO  stepsDefinitions.Steps - Provided Password 
+16:05:30.242 [main] INFO  stepsDefinitions.Steps - Clicked on My Account 
+16:05:30.579 [main] INFO  stepsDefinitions.Steps - Clicked on Login 
+16:05:30.658 [main] INFO  stepsDefinitions.Steps - Provided Email 
+16:05:30.699 [main] INFO  stepsDefinitions.Steps - Provided Password 
+16:05:31.229 [main] INFO  stepsDefinitions.Steps - Clicked on Login button
+16:05:31.291 [main] INFO  stepsDefinitions.Steps - Login Success 
+16:16:09.530 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on My Account 
+16:16:09.872 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login 
+16:16:09.948 [main] INFO  stepsDefinitions.StepsCorrect - Provided Email 
+16:16:09.988 [main] INFO  stepsDefinitions.StepsCorrect - Provided Password 
+16:16:10.552 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login button
+16:16:10.587 [main] INFO  stepsDefinitions.StepsCorrect - Login Success 
+16:16:14.006 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on My Account 
+16:16:14.349 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login 
+16:16:14.420 [main] INFO  stepsDefinitions.StepsCorrect - Provided Email 
+16:16:14.463 [main] INFO  stepsDefinitions.StepsCorrect - Provided Password 
+16:16:14.790 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login button
+16:16:29.839 [main] ERROR stepsDefinitions.StepsCorrect - Login Failed 
+16:17:45.008 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on My Account 
+16:17:45.330 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on Login 
+16:17:50.369 [main] INFO  stepsDefinitions.StepsCorrect - Clicked on My Account 
